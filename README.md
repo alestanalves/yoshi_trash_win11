@@ -18,7 +18,7 @@ Troque os ícones da **Lixeira** no Windows 11 por dois `.ico` (ex.: “magro”
 
 2. Execute no PowerShell, na pasta do projeto:
    ```powershell
-   powershell -ExecutionPolicy Bypass -File .\install.ps1 -EmptyIcon .\mario_magro.ico -FullIcon .\mario_gordo.ico
+   powershell -ExecutionPolicy Bypass -File .\install.ps1 -EmptyIcon .\2.ico -FullIcon .\1.ico
 
 ## Como fazer sem o script (via interface do Windows)
 
