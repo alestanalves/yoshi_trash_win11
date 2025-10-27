@@ -4,10 +4,10 @@
   SEM qualquer código de refresh do Explorer.
 
 .PARAMETER EmptyIcon
-  Caminho do .ico da lixeira vazia (ex.: .\mario_magro.ico)
+.\2.ico
 
 .PARAMETER FullIcon
-  Caminho do .ico da lixeira cheia (ex.: .\mario_gordo.ico)
+.\1.ico
 #>
 
 param(
