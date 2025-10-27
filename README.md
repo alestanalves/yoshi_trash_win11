@@ -1,9 +1,6 @@
 # RecycleBin Custom Icons (Win11) — sem refresh forçado
 
 Troque os ícones da **Lixeira** no Windows 11 por dois `.ico` (ex.: “magro” para vazia e “gordo” para cheia) usando um script simples **sem** nenhum refresh manual/automático embutido.
-
-> Nota de direitos autorais: não inclua material protegido (ex.: personagens licenciados) no repositório. Publique só seus próprios ícones ou arte livre.
-
 ---
 
 ## Requisitos
@@ -22,3 +19,11 @@ Troque os ícones da **Lixeira** no Windows 11 por dois `.ico` (ex.: “magro”
 2. Execute no PowerShell, na pasta do projeto:
    ```powershell
    powershell -ExecutionPolicy Bypass -File .\install.ps1 -EmptyIcon .\mario_magro.ico -FullIcon .\mario_gordo.ico
+
+## Como fazer sem o script (via interface do Windows)
+
+Clique com o botão direito no desktop → Personalizar.
+Acesse Temas → Configurações de ícones da área de trabalho.
+Selecione Lixeira (vazia) → Alterar ícone... e aponte para o seu .ico “vazio”.
+Selecione Lixeira (cheia) → Alterar ícone... e aponte para o seu .ico “cheio”.
+OK → Aplicar → OK.
