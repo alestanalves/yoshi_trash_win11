@@ -1,24 +1,13 @@
 # RecycleBin Custom Icons (Win11) 
 
-Troque os ícones da **Lixeira** no Windows 11 por dois `.ico` (ex.: “magro” para vazia e “gordo” para cheia) usando um script simples 
+Troque os ícones da **Lixeira** no Windows 11 por dois `.ico`
 ---
 
 ## Requisitos
 - Windows 11
-- PowerShell (padrão do sistema)
 - Dois arquivos `.ico` com múltiplas resoluções (16, 32, 48, 64, 128, 256) e transparência.
 
 ---
-
-## Como fazer **com o script**
-
-1. Coloque seus ícones na pasta do projeto, por exemplo:
-   - `favicon2.ico` (Lixeira vazia)
-   - `favicon1.ico` (Lixeira cheia)
-
-2. Execute no PowerShell, na pasta do projeto:
-   ```powershell
-   powershell -ExecutionPolicy Bypass -File .\install.ps1 -EmptyIcon .\favicon2.ico -FullIcon .\favicon1.ico
 
 ## Como fazer sem o script (via interface do Windows)
 
