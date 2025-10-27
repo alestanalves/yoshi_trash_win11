@@ -1,7 +1,7 @@
 # RecycleBin Custom Icons (Win11) 
 
 Troque os ícones da **Lixeira** no Windows 11 por dois `.ico` </br>
-Patrocinio: [Ackerdemy](ackerdemy.com) aprenda programação de verdade [ackerdemy.com](ackerdemy.com)
+Patrocinio: [Ackerdemy](https://ackerdemy.com) aprenda programação de verdade [ackerdemy.com](https://ackerdemy.com)
 ---
 
 ## Requisitos
