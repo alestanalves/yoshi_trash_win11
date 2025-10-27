@@ -13,8 +13,8 @@ Troque os ícones da **Lixeira** no Windows 11 por dois `.ico`
 
 - Clique com o botão direito no desktop → Personalizar.
 - Acesse Temas → Configurações de ícones da área de trabalho.
-- Selecione Lixeira (vazia) → Alterar ícone... e aponte para o seu .ico “vazio”.
-- Selecione Lixeira (cheia) → Alterar ícone... e aponte para o seu .ico “cheio”.
+- Selecione Lixeira (vazia) → Alterar ícone... e aponte para o seu .ico “vazio”. (favicon1.ico)
+- Selecione Lixeira (cheia) → Alterar ícone... e aponte para o seu .ico “cheio”. (favicon2.ico)
 - OK → Aplicar → OK.
 
 ## Para voltar ao padrão do Windows:
