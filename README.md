@@ -1,6 +1,6 @@
 # RecycleBin Custom Icons (Win11) — sem refresh forçado
 
-Troque os ícones da **Lixeira** no Windows 11 por dois `.ico` (ex.: “magro” para vazia e “gordo” para cheia) usando um script simples **sem** nenhum refresh manual/automático embutido.
+Troque os ícones da **Lixeira** no Windows 11 por dois `.ico` (ex.: “magro” para vazia e “gordo” para cheia) usando um script simples 
 ---
 
 ## Requisitos
