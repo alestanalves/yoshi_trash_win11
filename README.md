@@ -22,8 +22,8 @@ Troque os ícones da **Lixeira** no Windows 11 por dois `.ico` (ex.: “magro”
 
 ## Como fazer sem o script (via interface do Windows)
 
-Clique com o botão direito no desktop → Personalizar.
-Acesse Temas → Configurações de ícones da área de trabalho.
-Selecione Lixeira (vazia) → Alterar ícone... e aponte para o seu .ico “vazio”.
-Selecione Lixeira (cheia) → Alterar ícone... e aponte para o seu .ico “cheio”.
-OK → Aplicar → OK.
+- Clique com o botão direito no desktop → Personalizar.
+- Acesse Temas → Configurações de ícones da área de trabalho.
+- Selecione Lixeira (vazia) → Alterar ícone... e aponte para o seu .ico “vazio”.
+- Selecione Lixeira (cheia) → Alterar ícone... e aponte para o seu .ico “cheio”.
+- OK → Aplicar → OK.
