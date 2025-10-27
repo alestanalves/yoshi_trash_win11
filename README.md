@@ -13,8 +13,8 @@ Troque os ícones da **Lixeira** no Windows 11 por dois `.ico` (ex.: “magro”
 ## Como fazer **com o script**
 
 1. Coloque seus ícones na pasta do projeto, por exemplo:
-   - `mario_magro.ico` (Lixeira vazia)
-   - `mario_gordo.ico` (Lixeira cheia)
+   - `2.ico` (Lixeira vazia)
+   - `1.ico` (Lixeira cheia)
 
 2. Execute no PowerShell, na pasta do projeto:
    ```powershell
