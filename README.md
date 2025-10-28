@@ -7,6 +7,7 @@ Patrocinio: [Ackerdemy](https://ackerdemy.com) aprenda programação de verdade 
 ## Requisitos
 - Windows 11
 - Dois arquivos `.ico` com múltiplas resoluções (16, 32, 48, 64, 128, 256) e transparência.
+- Fazer download deste repositorio! 
 
 ---
 
